@@ -1,21 +1,21 @@
-# defi-staking-app-starter
+# Yield Farming App
 
 ## To download me simply open up the terminal and run: 
 
-git clone https://github.com/01Clarian/defi-staking-app-starter.git
+git clone https://github.com/hlj95/YieldFarmingApp
 
 This code has been revesed engineered from Greg DAPPuniversity.com! If you enjoyed this course go check out his work ;) 
 Please feel free to clone and style this project at your own discretion!
 
 ## 1 To Clone or download this project simply run: 
 
-git clone - https://github.com/01Clarian/defi-staking-app-starter.git
+git clone - https://github.com/hlj95/YieldFarmingApp
 
 ### 2. cd into the directory and Install the necessary packages
 
 npm install
 
-### 4. Make sure truggle -g is installed
+### 4. Make sure truffle -g is installed
 
 # use truffle compiile 
 (compile contracts)
@@ -24,7 +24,7 @@ npm install
 (migrate contracts on the blockchain)
 
 # use truffle test
-to run Moch and Chai testing suite
+to run Mocha and Chai testing suite
 
 ### Activate Application
 
